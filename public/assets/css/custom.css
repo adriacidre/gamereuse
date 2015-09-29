@@ -1,0 +1,105 @@
+.ad {
+    border: 1px solid #eee;
+    width: 100%;
+    min-height: 150px;
+    margin-bottom: 5px;
+}
+
+.search_box_container {
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.fixedHeader .search_box_container {
+    padding-top: 15px;
+}
+
+.fixedHeader .search_box_container input.search_box {
+    padding: 5px 12px;
+    height: 30px;
+}
+
+.no-margin-bottom {
+    margin-bottom: 0px;
+}
+
+.front-form {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.btn-success.accordion-toggle {
+    color: #FFF;
+}
+
+h4 .btn-success.accordion-toggle:hover {
+    color: #FFF;
+    font-weight: bold;
+}
+
+.sell-button-container {
+    padding-right: 20px;
+}
+
+td .imgBorder.imgListing {
+    height: 100px;
+}
+
+.btn-offer {
+    margin-top: 32px;
+}
+
+.game-item {
+    margin-bottom: 20px;
+    min-height: 630px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.gameItem {
+    height: 440px;
+}
+
+.gameItem .boxContent {
+    height: 90px;
+}
+
+.gameItem figure {
+    height: 351px;
+    background: #EEE;
+}
+
+.platformItem {
+    height: 600px;
+}
+
+.platformItem figure {
+    height: 335px;
+    background: #EEE;
+}
+
+.page-header {
+    padding: 15px 0;
+    margin: 0;
+}
+
+.big-search-box {
+    padding: 30px;
+    font-size: 26px;
+}
+
+.big-search-box-parent {
+    border: 1px solid #EEE;
+    padding: 10px;
+}
+
+.internalLink {
+    padding-top: 70px;
+}
+
+.big-image {
+    background: #EEE;
+    min-height: 200px
+}

@@ -1,0 +1,26 @@
+.media-box {
+    background-color: #FAFAFA;
+}
+
+.media-file {
+    background: #000;
+    height:480px;
+}
+
+.media-info {
+    padding: 15px 15px 0;
+    border: 1px solid #E9EBEF;
+    border-top: 0;
+    border-bottom: 0;
+    position: relative;
+}
+
+.ads {
+    background: #FFF;
+    height:480px;
+}
+
+h1.title {
+    margin: 0px;
+    padding: 0px;
+}
