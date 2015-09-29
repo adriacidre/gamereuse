@@ -1,7 +1,10 @@
 gamereuse.com
 =================
 
+![gamereuse.com](http://gamereuse.com/assets/images/main-logo.png)
+
 GameReuse is a marketplace to allow people easy share it's passion for video games.
+
 
 ## Table of contents
 
